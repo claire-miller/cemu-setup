@@ -1,0 +1,49 @@
+[Definition]
+titleIds = 00050000101C9300,00050000101C9400,00050000101C9500
+name = "Multicultural Link"
+path = "The Legend of Zelda: Breath of the Wild/Enhancements/Character Editor/Multicultural Link"
+description = Multicultural Link
+version = 3
+
+
+[Preset]
+name = Cemu default 
+$Red = 1.0
+$Green = 1.0
+$Blue = 1.0
+
+[Preset]
+name = Medium .75
+$Red = 0.75
+$Green = 0.75
+$Blue = 0.65
+
+[Preset]
+name = Medium .65
+$Red = 0.65
+$Green = 0.65
+$Blue = 0.55
+
+[Preset]
+name = Medium .55
+$Red = 0.55
+$Green = 0.55
+$Blue = 0.45
+
+[Preset]
+name = Darker .45
+$Red = 0.45
+$Green = 0.45
+$Blue = 0.35
+
+[Preset]
+name = Darker .34
+$Red = 0.35
+$Green = 0.35
+$Blue = 0.25
+
+[Preset]
+name = Max .25
+$Red = 0.25
+$Green = 0.25
+$Blue = 0.15

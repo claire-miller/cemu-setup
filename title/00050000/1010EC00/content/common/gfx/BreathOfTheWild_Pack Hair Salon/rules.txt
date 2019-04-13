@@ -1,0 +1,43 @@
+[Definition]
+titleIds = 00050000101C9300,00050000101C9400,00050000101C9500
+name = "Hair Salon"
+path = "The Legend of Zelda: Breath of the Wild/Enhancements/Character Editor/Hair Salon Dyes"
+description = For you hair dying needs. Only works with cel shading.
+version = 3
+
+
+[Preset]
+name = Cemu default 
+$Red = 0.4
+$Green = 1.0
+$Blue = 1.3
+
+[Preset]
+name = Orange Red?
+$Red = 1.3
+$Green = 1.0
+$Blue = 0.4
+
+[Preset]
+name = Grey 
+$Red = 1.0
+$Green = 1.0
+$Blue = 1.0
+
+[Preset]
+name = Yellow
+$Red = 1.0
+$Green = 1.0
+$Blue = 0.1
+
+[Preset]
+name = Green
+$Red = 0.2
+$Green = 0.7
+$Blue = 0.3
+
+[Preset]
+name = Purple 
+$Red = 0.9
+$Green = 0.1
+$Blue = 0.9
